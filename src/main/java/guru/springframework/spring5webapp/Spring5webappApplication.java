@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Spring5webappApplication {
 
 //added test comments
-//more test comments to check git push
+
 	public static void main(String[] args) {
 		SpringApplication.run(Spring5webappApplication.class, args);
 	}
